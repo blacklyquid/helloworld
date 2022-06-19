@@ -2,7 +2,6 @@
 
 int main(int argc, char const *argv[])
 {
-  //std::cout << "Hello Docker container!" << std::endl;
-  printf("Hello World")
+  std::cout << "Hello Docker container!";
   return 0;
 }
